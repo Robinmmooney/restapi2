@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Robinmmooney/restapi2/issues"
   },
-  "homepage": "https://github.com/Robinmmooney/restapi2#readme"
+  "homepage": "https://github.com/Robinmmooney/restapi2#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
